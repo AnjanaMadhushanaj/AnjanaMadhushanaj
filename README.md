@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Anjana Madhushan</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | Lifelong Learner</h3>
+<h3 align="center">Developer | Full-Stack Engineer | Web Developer | AI Enthusiast | UI/UX Designer | Fast Learner | Tech Explorer | Cloud & DevOps Learner | Problem Solver| Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anjanamadhushanaj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
