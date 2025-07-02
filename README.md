@@ -55,10 +55,11 @@
 ### 🎖️ Certifications & Badges
 
 <p align="center">
-  <a href="YOUR_BADGE_LINK_HERE" target="_blank">
-    <img src="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791" alt="Cisco Linux Unhatched Badge"/>
+  <a href="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791/public_url" target="_blank">
+    <img src="https://images.credly.com/images/f513460e-5408-4ab2-bb13-bdaa31b90791.png" alt="Cisco Linux Unhatched Badge" width="120" />
   </a>
 </p>
+
 
 
 ----
