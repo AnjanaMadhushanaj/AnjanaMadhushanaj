@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="YOUR_BADGE_LINK_HERE" target="_blank">
-    <img src="YOUR_BADGE_IMAGE_URL_HERE" alt="Cisco Linux Unhatched Badge" width="120" />
+   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f513460e-5408-4ab2-bb13-bdaa31b90791" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   </a>
 </p>
 
