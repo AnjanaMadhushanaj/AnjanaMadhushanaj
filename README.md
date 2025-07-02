@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="YOUR_BADGE_LINK_HERE" target="_blank">
-    <img src="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791/public_url" alt="Cisco Linux Unhatched Badge" width="120" />
+    <img src="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791" alt="Cisco Linux Unhatched Badge"/>
   </a>
 </p>
 
