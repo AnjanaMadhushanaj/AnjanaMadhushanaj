@@ -56,9 +56,10 @@
 
 <p align="center">
   <a href="YOUR_BADGE_LINK_HERE" target="_blank">
-   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f513460e-5408-4ab2-bb13-bdaa31b90791" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <img src="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791/public_url" alt="Cisco Linux Unhatched Badge" width="120" />
   </a>
 </p>
+
 
 ----
 ### 📊 GitHub Stats
