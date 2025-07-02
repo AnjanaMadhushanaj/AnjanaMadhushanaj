@@ -50,7 +50,17 @@
 </p>
 
 ---
+---
 
+### 🎖️ Certifications & Badges
+
+<p align="center">
+  <a href="YOUR_BADGE_LINK_HERE" target="_blank">
+    <img src="YOUR_BADGE_IMAGE_URL_HERE" alt="Cisco Linux Unhatched Badge" width="120" />
+  </a>
+</p>
+
+----
 ### 📊 GitHub Stats
 
 <p align="center">
