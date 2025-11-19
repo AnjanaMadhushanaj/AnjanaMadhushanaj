@@ -79,7 +79,7 @@
 
   <a href="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791/public_url" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png"
-      alt="Cisco Linux Unhatched Badge"width="200px" height="200px" />
+      alt="Cisco Linux Unhatched Badge" width="300px" height="100px" />
   </a>
 
 </p>
