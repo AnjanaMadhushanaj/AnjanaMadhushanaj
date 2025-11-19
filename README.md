@@ -73,7 +73,7 @@
 
 <p>
 
-  <a href="https://www.credly.com/badges/7c6b6b9a-8c9d-4e7a-9d4f-9f3d7f8b8e9b/public_url" target="_blank">
+  <a href="https://www.credly.com/users/anjana-madhushan/badges#credly" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/anjanamadhushanilankoon.png" alt="Linux fundermental  Badge" />
   </a>
 
