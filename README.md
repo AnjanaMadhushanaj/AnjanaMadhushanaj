@@ -87,31 +87,6 @@
 
 
 
-----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjanamadhushanaj&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanamadhushanaj&layout=compact&theme=tokyonight"
-    alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjanamadhushanaj&theme=radical&row=1&column=7"
-    alt="Trophies">
-</p>
-
----
-
 ### 🔥 Let's Build Something Awesome Together!
 
 <p align="center">Thanks for visiting my profile! 😊</p>
