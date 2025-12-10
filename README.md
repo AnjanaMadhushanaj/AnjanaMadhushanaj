@@ -64,6 +64,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=kotlin" width="42" height="42"/>
 </p>
 
 ---
