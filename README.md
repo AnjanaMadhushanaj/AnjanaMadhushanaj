@@ -48,8 +48,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"
     height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-    width="42" height="42" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
     width="42" height="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"
