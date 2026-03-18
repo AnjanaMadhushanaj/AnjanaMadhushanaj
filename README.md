@@ -82,24 +82,41 @@
 
 ### 🎖️ Certifications & Badges
 
-<p align="center">
-  <a href="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" width="120" alt="Cisco Linux" />
-  </a>
-  <a href="https://tryhackme.com/anjanamadhushanilankoon/badges/security-awareness" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9a5558dd-89fd-4001-95ec-b035c40a803c" width="120" alt="THM Security" />
-  </a>
-  <a href="https://tryhackme.com/anjanamadhushanilankoon/badges/terminaled" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6bb0d93a-ed40-490a-9106-d2fadbe84be0" width="120" alt="THM Terminal" />
-  </a>
-  <a href="https://tryhackme.com/room/introtodockerk8pdqk" target="_blank">
-    <img src="https://github.com/user-attachments/assets/2d7550f7-5708-4e42-830b-7413196480cc" width="120" alt="THM Docker" />
-  </a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="160">
+        <a href="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791/public_url" target="_blank">
+          <img src="https://images.credly.com/size/680x680/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" width="110" alt="Cisco Linux" /><br>
+          <sub><b>Linux Unhatched</b></sub>
+        </a>
+      </td>
+      <td align="center" width="160">
+        <a href="https://tryhackme.com/anjanamadhushanilankoon/badges/security-awareness" target="_blank">
+          <img src="https://github.com/user-attachments/assets/9a5558dd-89fd-4001-95ec-b035c40a803c" width="110" alt="THM Security" /><br>
+          <sub><b>Security Awareness</b></sub>
+        </a>
+      </td>
+      <td align="center" width="160">
+        <a href="https://tryhackme.com/anjanamadhushanilankoon/badges/terminaled" target="_blank">
+          <img src="https://github.com/user-attachments/assets/6bb0d93a-ed40-490a-9106-d2fadbe84be0" width="110" alt="THM Terminal" /><br>
+          <sub><b>Terminaled</b></sub>
+        </a>
+      </td>
+      <td align="center" width="160">
+        <a href="https://tryhackme.com/room/introtodockerk8pdqk" target="_blank">
+          <img src="https://github.com/user-attachments/assets/2d7550f7-5708-4e42-830b-7413196480cc" width="110" alt="THM Docker" /><br>
+          <sub><b>Intro to Docker</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
+  <br>
   <a href="https://tryhackme.com/p/anjanamadhushanilankoon" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/anjanamadhushanilankoon.png" alt="TryHackMe Profile Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/anjanamadhushanilankoon.png" alt="TryHackMe Profile Card" />
   </a>
 </p>
 
