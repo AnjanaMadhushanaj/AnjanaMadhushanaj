@@ -1,6 +1,19 @@
-<h1 align="center">👋 Hi, I'm Anjana Madhushan</h1>
-<h3 align="center">Developer | Full-Stack Engineer | Web Developer | AI Enthusiast | UI/UX Designer | Fast Learner |
-  Tech Explorer | Cloud & DevOps Learner | Problem Solver| Lifelong Learner</h3>
+<h1 align="center">👋 Hi, I'm Anjana Madhushan (AJ)</h1>
+
+<p align="center">
+  <strong>IT Undergraduate | DevOps & Cloud Enthusiast | Full-Stack Developer</strong>
+</p>
+
+<p align="center">
+  🚀 Exploring the world of <b>DevOps, Cybersecurity, and Scalable Web Apps</b>. <br>
+  Building efficient solutions while mastering <b>Docker, Linux, and Modern Frameworks</b>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fast%20Learner-Success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-Success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tech%20Explorer-Success?style=flat-square" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anjanamadhushanaj&label=Profile%20Views&color=0e75b6&style=flat"
