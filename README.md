@@ -1,12 +1,18 @@
 <h1 align="center">👋 Hi, I'm Anjana Madhushan (AJ)</h1>
 
 <p align="center">
-  <strong>IT Undergraduate | DevOps & Cloud Enthusiast | Full-Stack Developer</strong>
+  <strong> IT Undergraduate |  Full-Stack Developer | DevOps Engineer | MLOps Enthusiast </strong>
 </p>
 
 <p align="center">
-  🚀 Exploring the world of <b>DevOps, Cybersecurity, and Scalable Web Apps</b>. <br>
-  Building efficient solutions while mastering <b>Docker, Linux, and Modern Frameworks</b>.
+  Exploring the world of <b>DevOps, MLOps, and Cybersecurity</b>. <br>
+  Bridging the gap between <b>Machine Learning</b> and <b>Scalable Operations</b> while mastering <b>Docker & Linux</b>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MLOps%20Learner-blue?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps%20Engineer-success?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-informational?style=flat-square&logo=tryhackme&logoColor=white" />
 </p>
 
 <p align="center">
@@ -16,8 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjanamadhushanaj&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anjanamadhushanaj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 ---
