@@ -72,6 +72,11 @@
 ### 🎖️ Certifications & Badges
 
 <p>
+   <a href="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png"
+      alt="Cisco Linux Unhatched Badge" width="150px" height="150px" />
+  </a>
+  
 <a href="https://tryhackme.com/anjanamadhushanilankoon/badges/security-awareness" target="_blank">
   <img 
     src="https://github.com/user-attachments/assets/9a5558dd-89fd-4001-95ec-b035c40a803c"
@@ -80,21 +85,18 @@
     height="150px" />
 </a>
 
-  <a href="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png"
-      alt="Cisco Linux Unhatched Badge" width="150px" height="150px" />
-  </a>
-
-  <a href="https://www.credly.com/users/anjana-madhushan/badges#credly" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/anjanamadhushanilankoon.png" alt="Linux fundermental  Badge" />
-  </a>
-  <a href="https://tryhackme.com/anjanamadhushanilankoon/badges/terminaled" target="_blank">
+ <a href="https://tryhackme.com/anjanamadhushanilankoon/badges/terminaled" target="_blank">
   <img 
     src="https://github.com/user-attachments/assets/6bb0d93a-ed40-490a-9106-d2fadbe84be0"
     alt="TryHackMe Terminaled Badge" 
     width="150px" 
     height="150px" />
 </a>
+
+  <a href="https://www.credly.com/users/anjana-madhushan/badges#credly" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/anjanamadhushanilankoon.png" alt="Linux fundermental  Badge" />
+  </a>
+ 
 
   
 </p>
