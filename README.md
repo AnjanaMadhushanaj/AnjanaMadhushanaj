@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Anjana Madhushan (AJ)</h1>
 
-<p align="center">
- <h3> <strong> IT Undergraduate |  Full-Stack Developer | DevOps Engineer | MLOps Enthusiast </strong></h3>
-</p>
+<h3 align="center">
+ <strong> IT Undergraduate |  Full-Stack Developer | DevOps Engineer | MLOps Enthusiast </strong>
+</h3>
 
 <p align="center">
   Exploring the world of <b>DevOps, MLOps, and Cybersecurity</b>. <br>
