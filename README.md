@@ -96,6 +96,15 @@
   <a href="https://www.credly.com/users/anjana-madhushan/badges#credly" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/anjanamadhushanilankoon.png" alt="Linux fundermental  Badge" />
   </a>
+
+  <a href="https://tryhackme.com/room/introtodockerk8pdqk" target="_blank">
+  <img 
+    src="https://github.com/user-attachments/assets/2d7550f7-5708-4e42-830b-7413196480cc"
+    alt="TryHackMe Intro to Docker Badge" 
+    width="150px" 
+    height="150px" 
+  />
+</a>
  
 
   
