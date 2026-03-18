@@ -74,11 +74,10 @@
 <p>
 <a href="https://tryhackme.com/anjanamadhushanilankoon/badges/security-awareness" target="_blank">
   <img 
-    src="METHANATA_IMAGE_LINK_EKA_DANNA"
+    src="https://github.com/user-attachments/assets/9a5558dd-89fd-4001-95ec-b035c40a803c"
     alt="TryHackMe Security Awareness Badge" 
     width="150px" 
-    height="150px" 
-  />
+    height="150px" />
 </a>
 
   <a href="https://www.credly.com/badges/f513460e-5408-4ab2-bb13-bdaa31b90791/public_url" target="_blank">
