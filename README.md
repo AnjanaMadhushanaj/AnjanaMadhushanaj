@@ -88,6 +88,13 @@
   <a href="https://www.credly.com/users/anjana-madhushan/badges#credly" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/anjanamadhushanilankoon.png" alt="Linux fundermental  Badge" />
   </a>
+  <a href="https://tryhackme.com/anjanamadhushanilankoon/badges/terminaled" target="_blank">
+  <img 
+    src="https://github.com/user-attachments/assets/6bb0d93a-ed40-490a-9106-d2fadbe84be0"
+    alt="TryHackMe Terminaled Badge" 
+    width="150px" 
+    height="150px" />
+</a>
 
   
 </p>
