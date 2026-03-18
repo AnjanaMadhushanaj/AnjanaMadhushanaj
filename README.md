@@ -52,73 +52,30 @@
 
 <table>
   <tr>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker" /><br><sub>Docker</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" /><br><sub>Linux</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" /><br><sub>Git</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br><sub>Python</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br><sub>Java</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="Kotlin" /><br><sub>Kotlin</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" /><br><sub>C</sub>
-    </td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /><br><sub>Docker</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br><sub>Linux</sub></td>
+    <td align="center" width="75"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br><sub>Git</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br><sub>Python</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br><sub>Java</sub></td>
+    <td align="center" width="75"><img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" /><br><sub>Kotlin</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br><sub>C</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br><sub>C++</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /><br><sub>C#</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br><sub>PHP</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br><sub>MySQL</sub></td>
   </tr>
   <tr>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" /><br><sub>C++</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" /><br><sub>C#</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP" /><br><sub>PHP</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" /><br><sub>HTML5</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" /><br><sub>CSS3</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /><br><sub>JS</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" /><br><sub>TS</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" /><br><sub>React</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20" width="45" height="25" alt="Laravel" /><br><sub>Laravel</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap" /><br><sub>Bootstrap</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind" /><br><sub>Tailwind</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" /><br><sub>MySQL</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" /><br><sub>Postman</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma" /><br><sub>Figma</sub>
-    </td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br><sub>Node.js</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /><br><sub>React</sub></td>
+    <td align="center" width="75"><img src="https://img.shields.io/badge/Laravel-FF2D20" width="40" height="22" alt="Laravel" /><br><sub>Laravel</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br><sub>HTML5</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br><sub>CSS3</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" /><br><sub>JS</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" /><br><sub>TS</sub></td>
+    <td align="center" width="75"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" /><br><sub>Tailwind</sub></td>
+    <td align="center" width="75"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" /><br><sub>Bootstrap</sub></td>
+    <td align="center" width="75"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" /><br><sub>Postman</sub></td>
+    <td align="center" width="75"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /><br><sub>Figma</sub></td>
   </tr>
 </table>
 
