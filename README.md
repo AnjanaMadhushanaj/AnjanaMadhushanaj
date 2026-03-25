@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Anjana Madhushan (AJ)</h1>
 
 <h2 align="center">
- <strong> IT Undergraduate |  Full-Stack Developer | DevOps Engineer | MLOps Enthusiast </strong>
+  <strong> IT Undergraduate |  Full-Stack Developer | DevOps Engineer | MLOps Enthusiast </strong>
 </h2>
 
 <p align="center">
@@ -10,19 +10,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MLOps%20Learner-blue?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps%20Engineer-success?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-informational?style=flat-square&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps%20Learner-68217A?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps%20Engineer-0078D4?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-C62828?style=flat-square&logo=tryhackme&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fast%20Learner-Success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-Success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tech%20Explorer-Success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-37474F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-37474F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tech%20Explorer-37474F?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjanamadhushanaj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=anjanamadhushanaj&label=Profile%20Views&color=37474F&style=flat-square" alt="Profile views" /> 
 </p>
 
 ---
@@ -79,7 +79,6 @@
   </tr>
 </table>
 
-
 ### 🎖️ Certifications & Badges
 
 <div align="center">
@@ -119,7 +118,6 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/anjanamadhushanilankoon.png" alt="TryHackMe Profile Card" />
   </a>
 </p>
-
 
 ### 🔥 Let's Build Something Awesome Together!
 
